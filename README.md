@@ -1,3 +1,7 @@
+## Tech Art'y Projects:
+[Flashbang FX](https://github.com/PeclitheUltra/Flashbang/)
+
+
 ## Projects I've been a part of lately:
 [DUCK: Dangerous Ultimate Cartridge Kidnapper](https://store.steampowered.com/app/1820770/DUCK_Dangerous_Ultimate_Cartridge_Kidnapper/) - 
   A cool 100 in 1 cartridge-like arcade game
